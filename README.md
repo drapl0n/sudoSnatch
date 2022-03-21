@@ -7,7 +7,7 @@
 * Target: Unix-like operating systems with systemd.
 * Attackmodes: HID, Storage
 
-## sudoSnatch: sudoSnatch payload grabs sudo password in plain text and sends it back to attacker remotely/locally.
+## sudoSnatch: sudoSnatch is BashBunny's payload which grabs sudo password in plain text and sends it back to attacker remotely/locally.
 
 ### Features:
 * Plain text passwords.
